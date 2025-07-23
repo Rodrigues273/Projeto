@@ -1,0 +1,7 @@
+Histórias priorizadas para este sprint:
+
+1. ID 1 - Alterar cores dos nomes dos veículos para azul
+   - Esforço estimado: 10 minutos
+
+2. ID 3 - Atualizar descrição dos links de navegação
+   - Esforço estimado: 10 minutos

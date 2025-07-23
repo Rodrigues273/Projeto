@@ -1,0 +1,10 @@
+O que funcionou bem:
+Organização por branches
+A divisão das tarefas em branches específicas (index/contato) mostrou-se eficaz
+Permitiu trabalho paralelo sem conflitos imediatos
+
+O que não funcionou bem:
+Dificuldade inicial em resolver merges entre branches
+Falta de padrão claro para resolução
+Sugestões de melhoria:Adicionar critérios de aceite detalhados para cada história
+Implementar checklist pré-merge obrigatório
